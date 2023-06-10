@@ -3,7 +3,7 @@
 </div>
 
 #### Universidade Federal de Alfenas - UNIFAL
-Atividade realizado na disciplina de Programação Web, criar um site pessoal desenvolvido no WordPress
+Atividade realizada na disciplina de Programação Web, criar um site pessoal desenvolvido no WordPress.
 
 #### Professor
 -[Rodrigo Pagliares](https://github.com/pagliares)
