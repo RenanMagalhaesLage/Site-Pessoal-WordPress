@@ -13,4 +13,4 @@ Atividade realizada na disciplina de Programação Web, criar um site pessoal de
 -[Rodrigo Pagliares](https://github.com/pagliares)
 
 #### Link para o site:
- - [x] https://renannlage.github.io/Site-Pessoal-WordPress/
+ - [x] https://renanmagalhaeslage.github.io/Site-Pessoal-WordPress/
